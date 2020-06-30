@@ -1,4 +1,4 @@
 (initial-fact)
-(contract (contract-id 1) (car-luxury TRUE) (car-power 100) (car-displacement 2.15)     (new-customer FALSE) (contract-class 1) (max-refund 6000000) (driver-age 35) (driver-gender MALE)     (driver-city-population 27060000) (base-price 922.496))
-(contract (contract-id 2) (car-luxury FALSE) (car-power 75) (car-displacement 1.7)     (new-customer FALSE) (contract-class 10) (max-refund 2500000) (driver-age 45) (driver-gender MALE)     (driver-city-population 366000) (base-price 1046.6))
-(contract (contract-id 3) (car-luxury FALSE) (car-power 60) (car-displacement 1.4)     (new-customer FALSE) (contract-class 14) (max-refund 2000000) (driver-age 32) (driver-gender FEMALE)     (driver-city-population 1296000) (base-price 1054.95))
+(contract (contract-id 1) (car-luxury TRUE) (car-power 100) (car-displacement 2.15)     (new-customer FALSE) (contract-class 1) (max-refund 6000000) (driver-age 33) (driver-gender MALE)     (driver-city-population 27060000) (base-price 922.496))
+(contract (contract-id 2) (car-luxury FALSE) (car-power 75) (car-displacement 1.7)     (new-customer FALSE) (contract-class 10) (max-refund 2500000) (driver-age 43) (driver-gender MALE)     (driver-city-population 366000) (base-price 1046.6))
+(contract (contract-id 3) (car-luxury FALSE) (car-power 60) (car-displacement 1.4)     (new-customer FALSE) (contract-class 14) (max-refund 2000000) (driver-age 30) (driver-gender FEMALE)     (driver-city-population 1296000) (base-price 1054.95))
